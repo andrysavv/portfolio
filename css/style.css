@@ -1,0 +1,16 @@
+
+body{
+	margin: 0;
+/*	font-family: "Futura";*/
+}
+.textb{
+  font-size: 30px;
+}
+.texta{
+  font-size: 25px;
+}
+/*
+@font-face{
+    font-family: "Futura";
+    src: url("fonts/FuturaBookfont.ttf") format("ttf");
+}*/
