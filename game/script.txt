@@ -1,7 +1,0 @@
-Ты играешь школьником-троешником.
-Тебе надо закончить четверть на хорошие оценки.
-Принимай правильные решения и Закончишь игру хорошо.
-game.scale.scaleMode=Phaser.ScaleManager.SHOW_ALL - чтобы игра быоа адаптивной (писать в create)
-meta name="viewport" (index.html в <head>)
-Отсчет от высоты и ширины мира - game.world.height,game.world.width
-sprite.anchor.setTo(0,1); - отсчет координат снизу.
